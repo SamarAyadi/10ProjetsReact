@@ -1,0 +1,9 @@
+// une navbar à droite
+// une page d'acceuil
+// créer une note
+// voir les notes
+// modifier une note
+// supprimer une note
+
+
+REDUCER OU REDUCERS ?
