@@ -1,4 +1,4 @@
-# 10ProjetsReact
+# 10ProjetsReactWithPingucoder
 In this course, we will code:
 
 - A slider from A to Z
